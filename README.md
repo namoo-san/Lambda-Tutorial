@@ -5,6 +5,10 @@ My playground for Lambda AWS
 
 `pip install * -t ./`
 
+## 🔑 Permission
+
+`chmod -R 755 ./*`
+
 ## 🚚 Deploy
 
 `zip -r lambda_upload.zip ./*`
